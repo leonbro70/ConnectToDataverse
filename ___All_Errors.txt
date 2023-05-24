@@ -1,0 +1,16 @@
+CorrelationId: 47e1422d-9076-42aa-88fe-60c075752c16
+UTC DateTime: 05/24/2023 01:42:36
+
+The following files/folders have not been downloaded
+0. EnhancedQuickStart/packages/System.ComponentModel.Annotations.5.0.0/lib/portable-net45+win8
+1. EnhancedQuickStart/packages/System.ComponentModel.Annotations.5.0.0/ref/portable-net45+win8
+2. EnhancedQuickStart/packages/System.IO.4.3.0/lib/portable-net45+win8+wp8+wpa81
+3. EnhancedQuickStart/packages/System.IO.4.3.0/ref/portable-net45+win8+wp8+wpa81
+4. EnhancedQuickStart/packages/System.Net.Http.4.3.4/lib/portable-net45+win8+wpa81
+5. EnhancedQuickStart/packages/System.Net.Http.4.3.4/ref/portable-net45+win8+wpa81
+6. EnhancedQuickStart/packages/System.Numerics.Vectors.4.5.0/lib/portable-net45+win8+wp8+wpa81
+7. EnhancedQuickStart/packages/System.Runtime.4.3.1/lib/portable-net45+win8+wp80+wpa81
+8. EnhancedQuickStart/packages/System.Runtime.4.3.1/ref/portable-net45+win8+wp80+wpa81
+9. EnhancedQuickStart/packages/System.Threading.Tasks.Extensions.4.5.4/lib/portable-net45+win8+wp8+wpa81
+10. EnhancedQuickStart/packages/System.ValueTuple.4.5.0/lib/portable-net40+sl4+win8+wp8
+11. EnhancedQuickStart/packages/System.ValueTuple.4.5.0/ref/portable-net40+sl4+win8+wp8
